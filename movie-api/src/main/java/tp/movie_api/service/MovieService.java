@@ -3,10 +3,10 @@ package tp.movie_api.service;
 import java.util.List;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
-import tp.movie_api.domain.Movie;
-import tp.movie_api.model.MovieDTO;
+import tp.movie_api.model.Movie;
+import tp.movie_api.dto.MovieDTO;
 import tp.movie_api.repos.MovieRepository;
-import tp.movie_api.util.NotFoundException;
+import tp.movie_api.exception.NotFoundException;
 
 
 @Service

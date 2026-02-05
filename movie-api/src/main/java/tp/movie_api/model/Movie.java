@@ -1,4 +1,4 @@
-package tp.movie_api.domain;
+package tp.movie_api.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

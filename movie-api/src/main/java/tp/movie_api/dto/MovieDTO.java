@@ -1,4 +1,4 @@
-package tp.movie_api.model;
+package tp.movie_api.dto;
 
 import jakarta.validation.constraints.Size;
 import java.time.LocalDate;

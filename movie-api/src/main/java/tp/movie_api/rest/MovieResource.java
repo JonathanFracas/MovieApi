@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import tp.movie_api.model.MovieDTO;
+import tp.movie_api.dto.MovieDTO;
 import tp.movie_api.service.MovieService;
 
 
